@@ -19,5 +19,6 @@
             Full-triangle.cpp
             Inverse-Full-triangle.cpp
             Hollow triangle.cpp
-            Hollow Full-triangle.cpp
             Inverse-Hollow triangle.cpp
+            Hollow Full-triangle.cpp
+            Inverse-Hollow Full-triangle.cpp
