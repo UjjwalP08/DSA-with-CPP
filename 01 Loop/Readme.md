@@ -22,3 +22,10 @@
             Inverse-Hollow triangle.cpp
             Hollow Full-triangle.cpp
             Inverse-Hollow Full-triangle.cpp
+
+            Hollow-pyramid.cpp
+            Inverse-Hollow-pyramid.cpp
+            Reverse-Hollow-pyramid.cpp
+            Reverse-Inverse-Hollow-pyramid.cpp
+            Solid half.cpp
+            Solid Reverse half.cpp
