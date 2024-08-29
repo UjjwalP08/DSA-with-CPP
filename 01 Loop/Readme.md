@@ -29,3 +29,10 @@
             Reverse-Inverse-Hollow-pyramid.cpp
             Solid half.cpp
             Solid Reverse half.cpp
+
+
+            Butterfly.cpp
+            Flip Diamond.cpp
+            Star-and-number-mix.cpp
+            Floyd Triangle.cpp
+            Palindrome pyramid.cpp
